@@ -1,2 +1,5 @@
-haha:
-  test:test123
+channel:
+  name:
+    text: git
+  product:
+    id: 123
